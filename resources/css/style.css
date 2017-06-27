@@ -2,3 +2,45 @@ html {
   font-family: Helvetica, sans-serif;
   text-align: center;
 }
+
+header, #DesignNYC {
+  background-image: url(../the-flatiron-building.png);
+}
+
+nav p a, h1, #DesignNYC, footer p a, footer {
+  color: white;
+}
+
+h1, h3, #process {
+  font-weight: bold;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+h3, #DesignNYC {
+  font-size: 23px;
+}
+
+#process {
+  font-size: 32px;
+}
+
+.subtext {
+  font-size: 14px;
+}
+
+footer {
+  background-color: dimgray;
+}
+
+#copy {
+  font-size: 11px;
+}
